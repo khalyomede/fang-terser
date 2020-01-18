@@ -2,6 +2,8 @@
 
 Compress Javascript files using Terser.
 
+[![npm](https://img.shields.io/npm/v/@fang/terser)](https://www.npmjs.com/package/@fang/terser) ![NPM](https://img.shields.io/npm/l/@fang/terser) [![npm peer dependency version](https://img.shields.io/npm/dependency-version/@fang/terser/peer/@fang/core)](https://npmjs.com/package/@fang/core) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@fang/terser) ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/@fang/terser)
+
 ## Summary
 
 - [About](#about)
